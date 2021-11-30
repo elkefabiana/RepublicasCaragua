@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "CaraguaREP's",
+    "description": "O aplicativo de repúblicas que você não perde tempo. Achou! Apegou!",
+    "slug": "mobile",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/CaraguaRepsLogo3.png",
+    "splash": {
+      "image": "./assets/CaraguaRepsLogo3.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFFFFF"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
