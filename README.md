@@ -12,14 +12,6 @@
 
 > Com os detalhes(Fotos, Regras, Responsabilidade, Perfil das pessoas que residem, tipo) da república na divulgação pelo aplicativo e com o CHAT direto com o responsável, fica muito mais fácil e agil. É possível realizar uma conversa mais humanizada, sem necessidade de aguardar o outro verificar os e-mails para depois contatar.
 
-- **_Autor:_** Daniel Miranda de Figueiredo
-- **_E-Mail:_** devfigueiredo@gmail.com
-- **_LinkedIn:_** **[LinkedIn](https://www.linkedin.com/in/daniel-miranda-519191156/)**
-- **_Github:_** **[GitHub](https://github.com/DevFigueiredo)**
-
-**_Quem sou eu?_**
-*Somente um desenvolvedor amante de tudo que existe no mundo de tecnologia, e aprendendo cada dia procurando sempre obter novos conhecimentos. Gosto de ajudar pessoas da melhor forma que puder!*
-
 - ***Técnologias***
 > - **Backend**: *NodeJS, Express, JWT, BCrypt, WebSocket, Cors, Mongoose, MongoDB, NodeMailer, Path*
 - _API's:_
